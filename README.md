@@ -109,10 +109,10 @@ For more info, other clients, and to post questions, visit the [Learn MCP Server
 
 <table>
 <tr>
-    <td align="center"><a href="https://github.com/tpalmer_microsoft">
-        <img src="https://github.com/tpalmer_microsoft.png" width="100px;" alt="Tessa Kloster"/><br />
+    <td align="center"><a href="https://github.com/theresapalmer">
+        <img src="https://github.com/theresapalmer.png" width="100px;" alt="Tessa Kloster"/><br />
         <sub><b>Tessa Kloster</b></sub></a><br />
-            <a href="https://github.com/tpalmer_microsoft" title="talk">📢</a>
+            <a href="https://github.com/theresapalmer" title="talk">📢</a>
     </td>
     <td align="center"><a href="https://github.com/anshulsharmas">
         <img src="https://github.com/anshulsharmas.png" width="100px;" alt="Anshul Sharma"/><br />
@@ -120,9 +120,9 @@ For more info, other clients, and to post questions, visit the [Learn MCP Server
             <a href="https://github.com/anshulsharmas" title="talk">📢</a>
     </td>
     <td align="center">
-        <img src="https://via.placeholder.com/100x100.png?text=%3F" width="100px;" alt="Arindam Chatterjee"/><br />
+        <img src="https://github.com/arindamc" width="100px;" alt="Arindam Chatterjee"/><br />
         <sub><b>Arindam Chatterjee</b></sub><br />
-        <sub><i>GitHub handle pending</i></sub>
+            <a href="https://github.com/arindamc" title="talk">📢</a>
     </td>
 </tr></table>
 
