@@ -1,36 +1,3 @@
-# 🚀 Get Started
-
-**This repo is where attendees go to continue their learning after your session — and your Copilot agent will help you set it up.**
-
-### Step 1: Open your repo
-
-Open this repo in a **Codespace** (click the green **Code** button → **Create a Codespace**) — or clone it locally. Then open **GitHub Copilot Chat**.
-
-### Step 2: Add your content
-
-Give the agent something to work with. Drag files into the Explorer panel — session abstracts, outlines, screenshots, notes — and drop them in one of two places:
-
-| Where to put it | What goes there | Who sees it |
-|---|---|---|
-| **`_remove-before-publish/`** | Internal reference materials (abstracts, outlines, screenshots, planning docs) | **Copilot only** — never published |
-| **`/docs/`, `/src/`, or repo root** | Lab instructions, demo code, sample data, getting-started guides | **Attendees** — published with the repo |
-
-> 💡 Not sure? Start by dropping your session abstract or outline into `_remove-before-publish/`. The agent will figure out what to do with it.
-
-### Step 3: Ask the Agent
-
-Once your content is in the repo, use these three phrases with Copilot to build out your session repo:
-
-| Phrase to use with Copilot | What it does | When to run it |
-|---|---|---|
-| **"Help me get started"** | Sets up session title, description, outcomes, and owners | After you've added your session abstract or outline to the repo |
-| **"Help me refine content"** | Organizes your session content into the repo | Each time you add or update content |
-| **"Help me finalize"** | Final review, cleanup, and publication prep | When you're ready to publish |
-
-> 💡 **These three phrases are just the starting point.** Copilot can do much more — try asking it to brainstorm next steps for attendees, generate code samples, or build out your repo structure. Don't be afraid to put it in plan mode and ask for what you need.
-
----
-
 <a name="start-building"></a>
 <br>
 <p align="center">
@@ -50,7 +17,7 @@ Fast-paced, On-Demand session with live demos showing how to build real-time, ev
 To get started with this session:
 - Clone this repository
 - Set up your development environment
-- <!-- step 3 -->
+- Pick a scenario from the Resources section and build an end-to-end flow from Eventstreams ingestion to automated action.
 
 ### 🧠 Learning Outcomes
 
@@ -62,15 +29,27 @@ By the end of this session, you will be able to:
 
 ### 💬 Keep Learning with Copilot
 
-Try these prompts with GitHub Copilot to explore the topics from this session. Open Copilot Chat in VS Code (`Ctrl+Alt+I` on Windows/Linux, `Cmd+Shift+I` on Mac), paste a prompt, and see what you learn. Try connecting the [Microsoft Learn MCP Server](#-microsoft-learn-mcp-server) for the latest official documentation.
+Try these prompts with GitHub Copilot to explore the topics from this session. Open Copilot Chat in Visual Studio Code (`Ctrl+Alt+I` on Windows/Linux, `Cmd+Shift+I` on Mac), paste a prompt, and see what you learn. Try connecting the [Microsoft Learn MCP Server](#-microsoft-learn-mcp-server) for the latest official documentation.
 
-Use these as a starting point — or write your own!
+1. Understand the architecture:
 
-<!-- Prompts will be tailored to this session's content during repo setup. -->
+```text
+Explain an end-to-end Microsoft Fabric Real-Time Intelligence architecture for event-driven applications, from Eventstreams ingestion to automated action with Activator.
+```
+
+2. Find and apply official guidance:
+
+```text
+Using the Microsoft Learn MCP Server, find the latest docs for Eventhouse, Real-Time Dashboard, and Operations Agent, then summarize implementation best practices for a production workload.
+```
+
+3. Build a practical solution:
+
+```text
+Help me design and scaffold a sample solution that ingests events, stores and analyzes them in Eventhouse, visualizes KPIs in Real-Time Dashboard, and triggers response workflows with Activator.
+```
 
 - Explore [Skills for Fabric](https://github.com/microsoft/skills-for-fabric/) to find reusable skills and Model Context Protocol systems for Microsoft Fabric workflows.
-
-> *Prompts coming soon — check back after the session content is finalized.*
 
 ### 💻 Technologies Used
 
@@ -114,7 +93,7 @@ Use these as a starting point — or write your own!
 
 The Microsoft Learn MCP Server gives your AI agent direct access to Microsoft's official documentation — grounded, up-to-date answers about the products and services covered in this session.
 
-**VS Code** — One click installation: 
+**Visual Studio Code** — One click installation: 
 
 [![Install in VS Code](https://img.shields.io/badge/VS_Code-Install_Microsoft_Learn_MCP-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://vscode.dev/redirect/mcp/install?name=microsoft-learn&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Flearn.microsoft.com%2Fapi%2Fmcp%22%7D)
 
