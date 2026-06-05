@@ -87,6 +87,7 @@ Help me design and scaffold a sample solution that ingests events, stores and an
 | [https://aka.ms/fabric-iq-release](https://aka.ms/fabric-iq-release) | Track Fabric Intelligence release updates |
 | [https://aka.ms/fabricyoutube](https://aka.ms/fabricyoutube) | Watch Microsoft Fabric content on YouTube |
 | [https://aka.ms/fabric-customer-success](https://aka.ms/fabric-customer-success) | Explore Microsoft Fabric customer success stories |
+| [Watch the session recording](https://aka.ms/build26/OD819/youtube) | Watch the recorded Microsoft Build session. |
 
 
 ### 🌟 Microsoft Learn MCP Server
